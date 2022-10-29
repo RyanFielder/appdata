@@ -1,0 +1,658 @@
+[
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "14 Pro \/ 14 Pro Max",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "14 \/ 14 Plus",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "SE (Gen 3)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "13 Pro \/ 13 Pro Max",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "13 \/ 13 mini",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "12 Pro \/ 12 Pro Max",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "12 \/ 12 mini",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 13,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "SE (Gen 2)",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 13,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "11 Pro \/ 11 Pro Max",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 13,
+    "type" : "phone",
+    "name" : "11",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "XS \/ XS Max",
+    "released" : "2018"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "XR",
+    "released" : "2018"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 11,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "X",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 11,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "8 \/ 8 Plus",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 10,
+    "maxOS" : 15,
+    "type" : "phone",
+    "name" : "7 \/ 7 Plus",
+    "released" : "2016"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 9,
+    "maxOS" : 15,
+    "type" : "phone",
+    "name" : "SE (Gen 1)",
+    "released" : "2016"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 9,
+    "maxOS" : 15,
+    "type" : "phone",
+    "name" : "6s \/ 6s Plus",
+    "released" : "2015"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 8,
+    "maxOS" : 12,
+    "type" : "phone",
+    "name" : "6 \/ 6 Plus",
+    "released" : "2014"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 7,
+    "maxOS" : 12,
+    "type" : "phone",
+    "name" : "5s",
+    "released" : "2013"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 7,
+    "maxOS" : 10,
+    "type" : "phone",
+    "name" : "5c",
+    "released" : "2013"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 6,
+    "maxOS" : 10,
+    "type" : "phone",
+    "name" : "5",
+    "released" : "2012"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 5,
+    "maxOS" : 9,
+    "type" : "phone",
+    "name" : "4s",
+    "released" : "2011"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 4,
+    "maxOS" : 7,
+    "type" : "phone",
+    "name" : "4",
+    "released" : "2010"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 3,
+    "maxOS" : 6,
+    "type" : "phone",
+    "name" : "3gs",
+    "released" : "2009"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 2,
+    "maxOS" : 4,
+    "type" : "phone",
+    "name" : "3g",
+    "released" : "2008"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 1,
+    "maxOS" : 3,
+    "type" : "phone",
+    "name" : "(Gen 1)",
+    "released" : "2007"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 12.9\" (Gen 6)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 11\" (Gen 4)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "(Gen 10)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Air (Gen 5)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "(Gen 9))",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "mini (Gen 6)",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 12.9\" (Gen 5)",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 11\" (Gen 3)",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Air (Gen 4)",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "(Gen 8)",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 13,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 12.9\" (Gen 4)",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 13,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 11\" (Gen 2)",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 13,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "(Gen 7)",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Air (Gen 3)",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "mini (Gen 5)",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 12.9\" (Gen 3)",
+    "released" : "2018"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 11\" (Gen 1)",
+    "released" : "2018"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 11,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "(Gen 6)",
+    "released" : "2018"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 10,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 12.9\" (Gen 2)",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 10,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 10.5\"",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 10,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "(Gen 5)",
+    "released" : "2017"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 9,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 9.7\"",
+    "released" : "2016"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 9,
+    "maxOS" : 16,
+    "type" : "pad",
+    "name" : "Pro 12.9\"",
+    "released" : "2015"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 9,
+    "maxOS" : 15,
+    "type" : "pad",
+    "name" : "mini 4",
+    "released" : "2015"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 8,
+    "maxOS" : 12,
+    "type" : "pad",
+    "name" : "mini 3",
+    "released" : "2014"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 8,
+    "maxOS" : 15,
+    "type" : "pad",
+    "name" : "Air 2",
+    "released" : "2014"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 7,
+    "maxOS" : 12,
+    "type" : "pad",
+    "name" : "mini 2",
+    "released" : "2013"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 7,
+    "maxOS" : 12,
+    "type" : "pad",
+    "name" : "Air (Gen 1)",
+    "released" : "2013"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 6,
+    "maxOS" : 10,
+    "type" : "pad",
+    "name" : "(Gen 4)",
+    "released" : "2012"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 6,
+    "maxOS" : 9,
+    "type" : "pad",
+    "name" : "mini (Gen 1)",
+    "released" : "2012"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 5,
+    "maxOS" : 9,
+    "type" : "pad",
+    "name" : "(Gen 3)",
+    "released" : "2012"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 4,
+    "maxOS" : 9,
+    "type" : "pad",
+    "name" : "2",
+    "released" : "2011"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 3,
+    "maxOS" : 5,
+    "type" : "pad",
+    "name" : "(Gen 1)",
+    "released" : "2010"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "tv",
+    "name" : "4K (Gen 3)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "tv",
+    "name" : "4K (Gen 2)",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 11,
+    "maxOS" : 16,
+    "type" : "tv",
+    "name" : "4K (Gen 1)",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 9,
+    "maxOS" : 16,
+    "type" : "tv",
+    "name" : "HD",
+    "released" : "2015"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 9,
+    "maxOS" : 4,
+    "type" : "watch",
+    "name" : "Ultra",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 9,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "Series 8",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 9,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "SE (Gen 2)",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 8,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "Series 7",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 7,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "Series 6",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 7,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "SE (Gen 1)",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 6,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "Series 5",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 5,
+    "maxOS" : 9,
+    "type" : "watch",
+    "name" : "Series 4",
+    "released" : "2018"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 4,
+    "maxOS" : 8,
+    "type" : "watch",
+    "name" : "Series 3",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 3,
+    "maxOS" : 6,
+    "type" : "watch",
+    "name" : "Series 2",
+    "released" : "2016"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 3,
+    "maxOS" : 6,
+    "type" : "watch",
+    "name" : "Series 1",
+    "released" : "2016"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 1,
+    "maxOS" : 4,
+    "type" : "watch",
+    "name" : "Series 0",
+    "released" : "2014"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 12,
+    "maxOS" : 15,
+    "type" : "pod",
+    "name" : "touch (Gen 7)",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 8,
+    "maxOS" : 12,
+    "type" : "pod",
+    "name" : "touch (Gen 6)",
+    "released" : "2015"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 6,
+    "maxOS" : 9,
+    "type" : "pod",
+    "name" : "touch (Gen 5)",
+    "released" : "2012"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 4,
+    "maxOS" : 6,
+    "type" : "pod",
+    "name" : "touch (Gen 4)",
+    "released" : "2010"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 3,
+    "maxOS" : 5,
+    "type" : "pod",
+    "name" : "touch (Gen 3)",
+    "released" : "2009"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 2,
+    "maxOS" : 4,
+    "type" : "pod",
+    "name" : "touch (Gen 2)",
+    "released" : "2008"
+  },
+  {
+    "status" : "obsolete",
+    "firstOS" : 1,
+    "maxOS" : 3,
+    "type" : "pod",
+    "name" : "touch (Gen 1)",
+    "released" : "2007"
+  }
+]
