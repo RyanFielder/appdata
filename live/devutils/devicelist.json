@@ -73,8 +73,8 @@
   },
   {
     "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 13,
+    "firstOS" : 13,
+    "maxOS" : 16,
     "type" : "phone",
     "name" : "11",
     "released" : "2019"
