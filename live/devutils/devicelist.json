@@ -4,7 +4,7 @@
     "firstOS" : 16,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "14 Pro \/ 14 Pro Max",
+    "name" : "14 Pro Max",
     "released" : "2022"
   },
   {
@@ -12,7 +12,23 @@
     "firstOS" : 16,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "14 \/ 14 Plus",
+    "name" : "14 Pro",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "14 Plus",
+    "released" : "2022"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 16,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "14",
     "released" : "2022"
   },
   {
@@ -28,7 +44,7 @@
     "firstOS" : 15,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "13 Pro \/ 13 Pro Max",
+    "name" : "13 Pro Max",
     "released" : "2021"
   },
   {
@@ -36,7 +52,23 @@
     "firstOS" : 15,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "13 \/ 13 mini",
+    "name" : "13 Pro",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "13",
+    "released" : "2021"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 15,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "13 mini",
     "released" : "2021"
   },
   {
@@ -44,7 +76,7 @@
     "firstOS" : 14,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "12 Pro \/ 12 Pro Max",
+    "name" : "12 Pro Max",
     "released" : "2020"
   },
   {
@@ -52,7 +84,23 @@
     "firstOS" : 14,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "12 \/ 12 mini",
+    "name" : "12 Pro",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "12",
+    "released" : "2020"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 14,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "12 mini",
     "released" : "2020"
   },
   {
@@ -68,7 +116,15 @@
     "firstOS" : 13,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "11 Pro \/ 11 Pro Max",
+    "name" : "11 Pro Max",
+    "released" : "2019"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 13,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "11 Pro",
     "released" : "2019"
   },
   {
@@ -108,7 +164,15 @@
     "firstOS" : 11,
     "maxOS" : 16,
     "type" : "phone",
-    "name" : "8 \/ 8 Plus",
+    "name" : "8 Plus",
+    "released" : "2017"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 11,
+    "maxOS" : 16,
+    "type" : "phone",
+    "name" : "8",
     "released" : "2017"
   },
   {
@@ -116,7 +180,15 @@
     "firstOS" : 10,
     "maxOS" : 15,
     "type" : "phone",
-    "name" : "7 \/ 7 Plus",
+    "name" : "7 Plus",
+    "released" : "2016"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 10,
+    "maxOS" : 15,
+    "type" : "phone",
+    "name" : "7",
     "released" : "2016"
   },
   {
@@ -132,7 +204,15 @@
     "firstOS" : 9,
     "maxOS" : 15,
     "type" : "phone",
-    "name" : "6s \/ 6s Plus",
+    "name" : "6s Plus",
+    "released" : "2015"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 9,
+    "maxOS" : 15,
+    "type" : "phone",
+    "name" : "6s",
     "released" : "2015"
   },
   {
@@ -140,7 +220,15 @@
     "firstOS" : 8,
     "maxOS" : 12,
     "type" : "phone",
-    "name" : "6 \/ 6 Plus",
+    "name" : "6 Plus",
+    "released" : "2014"
+  },
+  {
+    "status" : "vintage",
+    "firstOS" : 8,
+    "maxOS" : 12,
+    "type" : "phone",
+    "name" : "6",
     "released" : "2014"
   },
   {
