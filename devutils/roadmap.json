@@ -1,0 +1,13 @@
+[
+    {
+        "id": "1",
+        "title": "Push Notifications",
+        "status": "planned",
+        "description" : "Push notifications for new releases/betas"
+    },
+    {
+        "id": "2",
+        "title": "Widgets",
+        "status": "Widgets to display device info, latest releases or latest betas"
+    }
+]

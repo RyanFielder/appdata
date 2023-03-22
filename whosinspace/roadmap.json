@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "Version 2.0.0",
+        "status": "finished",
+        "description" : "Redesigned app with new more up-to-date datasource, new widgets and more."
+    },
+    {
+        "id": "2",
+        "title": "Push Notifications",
+        "status": "idea",
+        "description" : "Push notifications for people entering/leaving space."
+    }
+]
