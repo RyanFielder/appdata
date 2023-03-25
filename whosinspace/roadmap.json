@@ -11,5 +11,11 @@
         "title": "Push Notifications",
         "status": "idea",
         "description" : "Push notifications for people entering/leaving space."
+    },
+    {
+        "id": "3",
+        "title": "Sticker pack",
+        "status": "idea",
+        "description" : "Add sticker pack for iMessage"
     }
 ]
