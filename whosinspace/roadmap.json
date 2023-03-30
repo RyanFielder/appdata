@@ -8,9 +8,9 @@
     },
     {
         "id": "2",
-        "title": "Push Notifications",
-        "status": "idea",
-        "description" : "Push notifications for people entering/leaving space."
+        "title": "Tapping widget open launch in-app",
+        "status": "planned",
+        "description" : "Tapping on a widget would open the currently presented launch in-app"
     },
     {
         "id": "3",
@@ -20,6 +20,12 @@
     },
     {
         "id": "4",
+        "title": "Push Notifications",
+        "status": "idea",
+        "description" : "Push notifications for people entering/leaving space."
+    },
+    {
+        "id": "5",
         "title": "Sticker pack",
         "status": "idea",
         "description" : "Add sticker pack for iMessage"
