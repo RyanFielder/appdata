@@ -8,7 +8,7 @@
     },
     {
         "id": "2",
-        "title": "Tapping widget open launch in-app",
+        "title": "Tapping widget to open launch in-app",
         "status": "planned",
         "description" : "Tapping on a widget would open the currently presented launch in-app"
     },
