@@ -1,0 +1,9 @@
+[
+    {
+        "id": "1",
+        "title": "Version 1.0.0",
+        "status": "planned",
+        "description" : "Initial Release",
+        "isFinished": true
+    }
+]
