@@ -8,6 +8,22 @@
     {
         "id": "2",
         "title": "Widgets",
-        "status": "Widgets to display device info, latest releases or latest betas"
+        "status": "idea",
+        "description": "Widgets to display device info, latest releases or latest betas"
+    },
+    {
+        "id": "3",
+        "title": "System Colors",
+        "description": "Added a reference to display system colors with respect to light and dark mode.",
+        "status": "finished",
+        "isFinished": true,
+        "description": ""
+    },
+    {
+        "id": "4",
+        "title": "System Fonts",
+        "description": "Added a reference to display system fonts with respect to accessibility modes.",
+        "status": "finished",
+        "isFinished": true
     }
 ]
