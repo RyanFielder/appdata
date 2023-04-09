@@ -20,7 +20,7 @@
     {
         "id": "4",
         "title": "Android Studio Releases",
-        "description": "DDisplay Android Studio releases within the app, with notifications for new versions based on channels (Release/Beta/Canary/etc.) for users to stay up-to-date with the latest development tools.",
+        "description": "Display Android Studio releases within the app, with notifications for new versions based on channels (Release/Beta/Canary/etc.) for users to stay up-to-date with the latest development tools.",
         "status": "idea"
     },
     {
