@@ -1,8 +1,40 @@
 [
   {
     "status" : "none",
+    "firstOS" : 18,
+    "maxOS" : 18,
+    "type" : "phone",
+    "name" : "iPhone 16 Pro Max",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 18,
+    "maxOS" : 18,
+    "type" : "phone",
+    "name" : "iPhone 16 Pro",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 18,
+    "maxOS" : 18,
+    "type" : "phone",
+    "name" : "iPhone 16 Plus",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 18,
+    "maxOS" : 18,
+    "type" : "phone",
+    "name" : "iPhone 16",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
     "firstOS" : 17,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 15 Pro Max",
     "released" : "2023"
@@ -10,7 +42,7 @@
   {
     "status" : "none",
     "firstOS" : 17,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 15 Pro",
     "released" : "2023"
@@ -18,7 +50,7 @@
   {
     "status" : "none",
     "firstOS" : 17,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 15 Plus",
     "released" : "2023"
@@ -26,7 +58,7 @@
   {
     "status" : "none",
     "firstOS" : 17,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 15",
     "released" : "2023"
@@ -34,7 +66,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 14 Pro Max",
     "released" : "2022"
@@ -42,7 +74,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 14 Pro",
     "released" : "2022"
@@ -50,7 +82,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 14 Plus",
     "released" : "2022"
@@ -58,7 +90,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 14",
     "released" : "2022"
@@ -66,7 +98,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone SE Gen 3",
     "released" : "2022"
@@ -74,7 +106,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 13 Pro Max",
     "released" : "2021"
@@ -82,7 +114,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 13 Pro",
     "released" : "2021"
@@ -90,7 +122,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 13",
     "released" : "2021"
@@ -98,7 +130,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 13 mini",
     "released" : "2021"
@@ -106,7 +138,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 12 Pro Max",
     "released" : "2020"
@@ -114,7 +146,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 12 Pro",
     "released" : "2020"
@@ -122,7 +154,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 12",
     "released" : "2020"
@@ -130,7 +162,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 12 mini",
     "released" : "2020"
@@ -138,7 +170,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone SE Gen 2",
     "released" : "2020"
@@ -146,7 +178,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 11 Pro Max",
     "released" : "2019"
@@ -154,7 +186,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 11 Pro",
     "released" : "2019"
@@ -162,7 +194,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone 11",
     "released" : "2019"
@@ -170,7 +202,7 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone XS Max",
     "released" : "2018"
@@ -178,7 +210,7 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone XS ",
     "released" : "2018"
@@ -186,13 +218,13 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "phone",
     "name" : "iPhone XR",
     "released" : "2018"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 11,
     "maxOS" : 16,
     "type" : "phone",
@@ -200,7 +232,7 @@
     "released" : "2017"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 11,
     "maxOS" : 16,
     "type" : "phone",
@@ -208,7 +240,7 @@
     "released" : "2017"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 11,
     "maxOS" : 16,
     "type" : "phone",
@@ -232,7 +264,7 @@
     "released" : "2016"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 9,
     "maxOS" : 15,
     "type" : "phone",
@@ -240,7 +272,7 @@
     "released" : "2016"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 9,
     "maxOS" : 15,
     "type" : "phone",
@@ -248,7 +280,7 @@
     "released" : "2015"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 9,
     "maxOS" : 15,
     "type" : "phone",
@@ -256,7 +288,7 @@
     "released" : "2015"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 8,
     "maxOS" : 12,
     "type" : "phone",
@@ -264,7 +296,7 @@
     "released" : "2014"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 8,
     "maxOS" : 12,
     "type" : "phone",
@@ -272,7 +304,7 @@
     "released" : "2014"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 7,
     "maxOS" : 12,
     "type" : "phone",
@@ -280,7 +312,7 @@
     "released" : "2013"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 7,
     "maxOS" : 10,
     "type" : "phone",
@@ -337,8 +369,40 @@
   },
   {
     "status" : "none",
+    "firstOS" : 17,
+    "maxOS" : 18,
+    "type" : "pad",
+    "name" : "iPad Pro 13\" M4",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 17,
+    "maxOS" : 18,
+    "type" : "pad",
+    "name" : "iPad Pro 11\" M4",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 17,
+    "maxOS" : 18,
+    "type" : "pad",
+    "name" : "iPad Air 13\" M2",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
+    "firstOS" : 17,
+    "maxOS" : 18,
+    "type" : "pad",
+    "name" : "iPad Air 11\" M2",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 12.9\" Gen 6",
     "released" : "2022"
@@ -346,7 +410,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 11\" Gen 4",
     "released" : "2022"
@@ -354,7 +418,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Gen 10",
     "released" : "2022"
@@ -362,7 +426,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Air Gen 5",
     "released" : "2022"
@@ -370,7 +434,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Gen 9",
     "released" : "2021"
@@ -378,7 +442,7 @@
   {
     "status" : "none",
     "firstOS" : 15,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad mini Gen 6",
     "released" : "2021"
@@ -386,7 +450,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 12.9\" Gen 5",
     "released" : "2021"
@@ -394,7 +458,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 11\" Gen 3",
     "released" : "2021"
@@ -402,7 +466,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Air Gen 4",
     "released" : "2020"
@@ -410,7 +474,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Gen 8",
     "released" : "2020"
@@ -418,7 +482,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 12.9\" Gen 4",
     "released" : "2020"
@@ -426,7 +490,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 11\" Gen 2",
     "released" : "2020"
@@ -434,7 +498,7 @@
   {
     "status" : "none",
     "firstOS" : 13,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Gen 7",
     "released" : "2019"
@@ -442,7 +506,7 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Air Gen 3",
     "released" : "2019"
@@ -450,7 +514,7 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad mini Gen 5",
     "released" : "2019"
@@ -458,7 +522,7 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 12.9\" Gen 3",
     "released" : "2018"
@@ -466,13 +530,13 @@
   {
     "status" : "none",
     "firstOS" : 12,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "pad",
     "name" : "iPad Pro 11\" Gen 1",
     "released" : "2018"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 11,
     "maxOS" : 17,
     "type" : "pad",
@@ -480,9 +544,9 @@
     "released" : "2018"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 10,
-    "maxOS" : 16,
+    "maxOS" : 17,
     "type" : "pad",
     "name" : "iPad Pro 12.9\" Gen 2",
     "released" : "2017"
@@ -490,13 +554,13 @@
   {
     "status" : "none",
     "firstOS" : 10,
-    "maxOS" : 16,
+    "maxOS" : 17,
     "type" : "pad",
     "name" : "iPad Pro 10.5\"",
     "released" : "2017"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 10,
     "maxOS" : 16,
     "type" : "pad",
@@ -516,11 +580,11 @@
     "firstOS" : 9,
     "maxOS" : 16,
     "type" : "pad",
-    "name" : "iPad Pro 12.9\"",
+    "name" : "iPad Pro 12.9\" Gen 1",
     "released" : "2015"
   },
   {
-    "status" : "none",
+    "status" : "vintage",
     "firstOS" : 9,
     "maxOS" : 15,
     "type" : "pad",
@@ -528,7 +592,7 @@
     "released" : "2015"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 8,
     "maxOS" : 12,
     "type" : "pad",
@@ -552,7 +616,7 @@
     "released" : "2013"
   },
   {
-    "status" : "vintage",
+    "status" : "obsolete",
     "firstOS" : 7,
     "maxOS" : 12,
     "type" : "pad",
@@ -602,7 +666,7 @@
   {
     "status" : "none",
     "firstOS" : 16,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "tv",
     "name" : "Apple TV 4K Gen 3",
     "released" : "2022"
@@ -610,7 +674,7 @@
   {
     "status" : "none",
     "firstOS" : 14,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "tv",
     "name" : "Apple TV 4K Gen 2",
     "released" : "2021"
@@ -618,7 +682,7 @@
   {
     "status" : "none",
     "firstOS" : 11,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "tv",
     "name" : "Apple TV 4K Gen 1",
     "released" : "2017"
@@ -626,7 +690,7 @@
   {
     "status" : "none",
     "firstOS" : 9,
-    "maxOS" : 17,
+    "maxOS" : 18,
     "type" : "tv",
     "name" : "Apple TV HD",
     "released" : "2015"
@@ -657,8 +721,16 @@
   },
   {
     "status" : "none",
+    "firstOS" : 11,
+    "maxOS" : 11,
+    "type" : "watch",
+    "name" : "Apple Watch Series 10",
+    "released" : "2024"
+  },
+  {
+    "status" : "none",
     "firstOS" : 10,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch Ultra 2",
     "released" : "2023"
@@ -666,7 +738,7 @@
   {
     "status" : "none",
     "firstOS" : 10,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch Series 9",
     "released" : "2022"
@@ -674,7 +746,7 @@
   {
     "status" : "none",
     "firstOS" : 9,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch Ultra",
     "released" : "2022"
@@ -682,7 +754,7 @@
   {
     "status" : "none",
     "firstOS" : 9,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch Series 8",
     "released" : "2022"
@@ -690,7 +762,7 @@
   {
     "status" : "none",
     "firstOS" : 9,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch SE Gen 2",
     "released" : "2022"
@@ -698,7 +770,7 @@
   {
     "status" : "none",
     "firstOS" : 8,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch Series 7",
     "released" : "2021"
@@ -706,7 +778,7 @@
   {
     "status" : "none",
     "firstOS" : 7,
-    "maxOS" : 10,
+    "maxOS" : 11,
     "type" : "watch",
     "name" : "Apple Watch Series 6",
     "released" : "2020"
