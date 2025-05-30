@@ -2,7 +2,8 @@ name: Run iosRefScraper
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every 5 minutes for testing
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
   run-iosRefScraper:
