@@ -1,898 +1,938 @@
 [
   {
-    "status" : "none",
-    "firstOS" : 18,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 16 Pro Max",
-    "released" : "2024"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 18,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 16 Pro",
-    "released" : "2024"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 18,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 16 Plus",
-    "released" : "2024"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 18,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 16",
-    "released" : "2024"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 15 Pro Max",
-    "released" : "2023"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 15 Pro",
-    "released" : "2023"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 15 Plus",
-    "released" : "2023"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 15",
-    "released" : "2023"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 14 Pro Max",
-    "released" : "2022"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 14 Pro",
-    "released" : "2022"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 14 Plus",
-    "released" : "2022"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 14",
-    "released" : "2022"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone SE Gen 3",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 16e",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 16 Pro",
+    "released": "2024"
+  },
+  {
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 16 Pro Max",
+    "released": "2024"
+  },
+  {
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 16",
+    "released": "2024"
+  },
+  {
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 16 Plus",
+    "released": "2024"
+  },
+  {
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 15 Pro",
+    "released": "2023"
+  },
+  {
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 15 Pro Max",
+    "released": "2023"
+  },
+  {
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 15",
+    "released": "2023"
+  },
+  {
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 15 Plus",
+    "released": "2023"
+  },
+  {
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 14 Pro",
+    "released": "2022"
+  },
+  {
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 14 Pro Max",
+    "released": "2022"
+  },
+  {
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 14",
+    "released": "2022"
+  },
+  {
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 14 Plus",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 13 Pro Max",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone SE (gen 3)",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 13 Pro",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 13 Pro",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 13",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 13 Pro Max",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 13 mini",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 13",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 12 Pro Max",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 13 mini",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 12 Pro",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 12 Pro",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 12",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 12 Pro Max",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 12 mini",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 12",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone SE Gen 2",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 12 mini",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 11 Pro Max",
-    "released" : "2019"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone SE (gen 2)",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 11 Pro",
-    "released" : "2019"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 11 Pro",
+    "released": "2019"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone 11",
-    "released" : "2019"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 11 Pro Max",
+    "released": "2019"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone XS Max",
-    "released" : "2018"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone 11",
+    "released": "2019"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone XS ",
-    "released" : "2018"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone XS",
+    "released": "2018"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "phone",
-    "name" : "iPhone XR",
-    "released" : "2018"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone XS Max",
+    "released": "2018"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 11,
-    "maxOS" : 16,
-    "type" : "phone",
-    "name" : "iPhone X",
-    "released" : "2017"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "phone",
+    "name": "iPhone XR",
+    "released": "2018"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 11,
-    "maxOS" : 16,
-    "type" : "phone",
-    "name" : "iPhone 8 Plus",
-    "released" : "2017"
+    "status": "vintage",
+    "firstOS": 11,
+    "maxOS": 16,
+    "type": "phone",
+    "name": "iPhone X",
+    "released": "2017"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 11,
-    "maxOS" : 16,
-    "type" : "phone",
-    "name" : "iPhone 8",
-    "released" : "2017"
+    "status": "vintage",
+    "firstOS": 11,
+    "maxOS": 16,
+    "type": "phone",
+    "name": "iPhone 8",
+    "released": "2017"
   },
   {
-    "status" : "none",
-    "firstOS" : 10,
-    "maxOS" : 15,
-    "type" : "phone",
-    "name" : "iPhone 7 Plus",
-    "released" : "2016"
+    "status": "vintage",
+    "firstOS": 11,
+    "maxOS": 16,
+    "type": "phone",
+    "name": "iPhone 8 Plus",
+    "released": "2017"
   },
   {
-    "status" : "none",
-    "firstOS" : 10,
-    "maxOS" : 15,
-    "type" : "phone",
-    "name" : "iPhone 7",
-    "released" : "2016"
+    "status": "none",
+    "firstOS": 10,
+    "maxOS": 15,
+    "type": "phone",
+    "name": "iPhone 7",
+    "released": "2016"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 9,
-    "maxOS" : 15,
-    "type" : "phone",
-    "name" : "iPhone SE Gen 1",
-    "released" : "2016"
+    "status": "none",
+    "firstOS": 10,
+    "maxOS": 15,
+    "type": "phone",
+    "name": "iPhone 7 Plus",
+    "released": "2016"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 9,
-    "maxOS" : 15,
-    "type" : "phone",
-    "name" : "iPhone 6s Plus",
-    "released" : "2015"
+    "status": "vintage",
+    "firstOS": 9,
+    "maxOS": 15,
+    "type": "phone",
+    "name": "iPhone SE (gen 1)",
+    "released": "2016"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 9,
-    "maxOS" : 15,
-    "type" : "phone",
-    "name" : "iPhone 6s",
-    "released" : "2015"
+    "status": "obsolete",
+    "firstOS": 9,
+    "maxOS": 15,
+    "type": "phone",
+    "name": "iPhone 6s",
+    "released": "2015"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 8,
-    "maxOS" : 12,
-    "type" : "phone",
-    "name" : "iPhone 6 Plus",
-    "released" : "2014"
+    "status": "obsolete",
+    "firstOS": 9,
+    "maxOS": 15,
+    "type": "phone",
+    "name": "iPhone 6s Plus",
+    "released": "2015"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 8,
-    "maxOS" : 12,
-    "type" : "phone",
-    "name" : "iPhone 6",
-    "released" : "2014"
+    "status": "obsolete",
+    "firstOS": 8,
+    "maxOS": 12,
+    "type": "phone",
+    "name": "iPhone 6",
+    "released": "2014"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 7,
-    "maxOS" : 12,
-    "type" : "phone",
-    "name" : "iPhone 5s",
-    "released" : "2013"
+    "status": "obsolete",
+    "firstOS": 8,
+    "maxOS": 12,
+    "type": "phone",
+    "name": "iPhone 6 Plus",
+    "released": "2014"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 7,
-    "maxOS" : 10,
-    "type" : "phone",
-    "name" : "iPhone 5c",
-    "released" : "2013"
+    "status": "obsolete",
+    "firstOS": 7,
+    "maxOS": 12,
+    "type": "phone",
+    "name": "iPhone 5s",
+    "released": "2013"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 6,
-    "maxOS" : 10,
-    "type" : "phone",
-    "name" : "iPhone 5",
-    "released" : "2012"
+    "status": "obsolete",
+    "firstOS": 7,
+    "maxOS": 10,
+    "type": "phone",
+    "name": "iPhone 5c",
+    "released": "2013"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 5,
-    "maxOS" : 9,
-    "type" : "phone",
-    "name" : "iPhone 4s",
-    "released" : "2011"
+    "status": "vintage",
+    "firstOS": 6,
+    "maxOS": 10,
+    "type": "phone",
+    "name": "iPhone 5",
+    "released": "2012"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 4,
-    "maxOS" : 7,
-    "type" : "phone",
-    "name" : "iPhone 4",
-    "released" : "2010"
+    "status": "obsolete",
+    "firstOS": 5,
+    "maxOS": 9,
+    "type": "phone",
+    "name": "iPhone 4s",
+    "released": "2011"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 3,
-    "maxOS" : 6,
-    "type" : "phone",
-    "name" : "iPhone 3gs",
-    "released" : "2009"
+    "status": "obsolete",
+    "firstOS": 4,
+    "maxOS": 7,
+    "type": "phone",
+    "name": "iPhone 4",
+    "released": "2010"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 2,
-    "maxOS" : 4,
-    "type" : "phone",
-    "name" : "iPhone 3g",
-    "released" : "2008"
+    "status": "obsolete",
+    "firstOS": 3,
+    "maxOS": 6,
+    "type": "phone",
+    "name": "iPhone 3GS",
+    "released": "2009"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 1,
-    "maxOS" : 3,
-    "type" : "phone",
-    "name" : "iPhone Gen 1",
-    "released" : "2007"
+    "status": "obsolete",
+    "firstOS": 2,
+    "maxOS": 4,
+    "type": "phone",
+    "name": "iPhone 3G",
+    "released": "2008"
   },
   {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 13\" M4",
-    "released" : "2024"
+    "status": "obsolete",
+    "firstOS": 1,
+    "maxOS": 3,
+    "type": "phone",
+    "name": "iPhone (gen 1)",
+    "released": "2007"
   },
   {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 11\" M4",
-    "released" : "2024"
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air 13\" (M3)",
+    "released": "2025"
   },
   {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Air 13\" M2",
-    "released" : "2024"
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air 11\" (M3)",
+    "released": "2025"
   },
   {
-    "status" : "none",
-    "firstOS" : 17,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Air 11\" M2",
-    "released" : "2024"
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad (A16)",
+    "released": "2025"
   },
   {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 12.9\" Gen 6",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Mini (A17 Pro)",
+    "released": "2024"
   },
   {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 11\" Gen 4",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 13\" (M4)",
+    "released": "2024"
   },
   {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Gen 10",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 11\" (M4)",
+    "released": "2024"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Air Gen 5",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air 13\" (M2)",
+    "released": "2024"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Gen 9",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 17,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air 11\" (M2)",
+    "released": "2024"
   },
   {
-    "status" : "none",
-    "firstOS" : 15,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad mini Gen 6",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 12.9\" (gen 6)",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 12.9\" Gen 5",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 11\" (gen 4)",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 11\" Gen 3",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad (gen 10)",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Air Gen 4",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air (gen 5)",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Gen 8",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad (gen 9)",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 12.9\" Gen 4",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 15,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad mini (gen 6)",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 11\" Gen 2",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 12.9\" (gen 5)",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 13,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Gen 7",
-    "released" : "2019"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 11\" (gen 3)",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Air Gen 3",
-    "released" : "2019"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air (gen 4)",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad mini Gen 5",
-    "released" : "2019"
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad (gen 8)",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 12.9\" Gen 3",
-    "released" : "2018"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 12.9\" (gen 4)",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 18,
-    "type" : "pad",
-    "name" : "iPad Pro 11\" Gen 1",
-    "released" : "2018"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 11\" (gen 2)",
+    "released": "2020"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 11,
-    "maxOS" : 17,
-    "type" : "pad",
-    "name" : "iPad Gen 6",
-    "released" : "2018"
+    "status": "none",
+    "firstOS": 13,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad (gen 7)",
+    "released": "2019"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 10,
-    "maxOS" : 17,
-    "type" : "pad",
-    "name" : "iPad Pro 12.9\" Gen 2",
-    "released" : "2017"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Air (gen 3)",
+    "released": "2019"
   },
   {
-    "status" : "none",
-    "firstOS" : 10,
-    "maxOS" : 17,
-    "type" : "pad",
-    "name" : "iPad Pro 10.5\"",
-    "released" : "2017"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad mini (gen 5)",
+    "released": "2019"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 10,
-    "maxOS" : 16,
-    "type" : "pad",
-    "name" : "iPad Gen 5",
-    "released" : "2017"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 12.9\" (gen 3)",
+    "released": "2018"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 9,
-    "maxOS" : 16,
-    "type" : "pad",
-    "name" : "iPad Pro 9.7\"",
-    "released" : "2016"
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 18,
+    "type": "pad",
+    "name": "iPad Pro 11\" (gen 1)",
+    "released": "2018"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 9,
-    "maxOS" : 16,
-    "type" : "pad",
-    "name" : "iPad Pro 12.9\" Gen 1",
-    "released" : "2015"
+    "status": "vintage",
+    "firstOS": 11,
+    "maxOS": 17,
+    "type": "pad",
+    "name": "iPad (gen 6)",
+    "released": "2018"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 9,
-    "maxOS" : 15,
-    "type" : "pad",
-    "name" : "iPad mini 4",
-    "released" : "2015"
+    "status": "vintage",
+    "firstOS": 10,
+    "maxOS": 17,
+    "type": "pad",
+    "name": "iPad Pro 12.9\" (gen 2)",
+    "released": "2017"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 8,
-    "maxOS" : 12,
-    "type" : "pad",
-    "name" : "iPad mini 3",
-    "released" : "2014"
+    "status": "vintage",
+    "firstOS": 10,
+    "maxOS": 17,
+    "type": "pad",
+    "name": "iPad Pro 10.5\"",
+    "released": "2017"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 8,
-    "maxOS" : 15,
-    "type" : "pad",
-    "name" : "iPad Air 2",
-    "released" : "2014"
+    "status": "vintage",
+    "firstOS": 10,
+    "maxOS": 16,
+    "type": "pad",
+    "name": "iPad (gen 5)",
+    "released": "2017"
   },
   {
-    "status" : "vintage",
-    "firstOS" : 7,
-    "maxOS" : 12,
-    "type" : "pad",
-    "name" : "iPad mini 2",
-    "released" : "2013"
+    "status": "vintage",
+    "firstOS": 9,
+    "maxOS": 16,
+    "type": "pad",
+    "name": "iPad Pro 9.7\"",
+    "released": "2016"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 7,
-    "maxOS" : 12,
-    "type" : "pad",
-    "name" : "iPad Air Gen 1",
-    "released" : "2013"
+    "status": "vintage",
+    "firstOS": 9,
+    "maxOS": 16,
+    "type": "pad",
+    "name": "iPad Pro 12.9\" (gen 1)",
+    "released": "2015"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 6,
-    "maxOS" : 10,
-    "type" : "pad",
-    "name" : "iPad Gen 4",
-    "released" : "2012"
+    "status": "vintage",
+    "firstOS": 9,
+    "maxOS": 15,
+    "type": "pad",
+    "name": "iPad mini 4",
+    "released": "2015"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 6,
-    "maxOS" : 9,
-    "type" : "pad",
-    "name" : "iPad mini Gen 1",
-    "released" : "2012"
+    "status": "obsolete",
+    "firstOS": 8,
+    "maxOS": 12,
+    "type": "pad",
+    "name": "iPad mini 3",
+    "released": "2014"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 5,
-    "maxOS" : 9,
-    "type" : "pad",
-    "name" : "iPad Gen 3",
-    "released" : "2012"
+    "status": "vintage",
+    "firstOS": 8,
+    "maxOS": 15,
+    "type": "pad",
+    "name": "iPad Air 2",
+    "released": "2014"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 4,
-    "maxOS" : 9,
-    "type" : "pad",
-    "name" : "iPad 2",
-    "released" : "2011"
+    "status": "vintage",
+    "firstOS": 7,
+    "maxOS": 12,
+    "type": "pad",
+    "name": "iPad mini 2",
+    "released": "2013"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 3,
-    "maxOS" : 5,
-    "type" : "pad",
-    "name" : "iPad Gen 1",
-    "released" : "2010"
+    "status": "obsolete",
+    "firstOS": 7,
+    "maxOS": 12,
+    "type": "pad",
+    "name": "iPad Air (gen 1)",
+    "released": "2013"
   },
   {
-    "status" : "none",
-    "firstOS" : 16,
-    "maxOS" : 18,
-    "type" : "tv",
-    "name" : "Apple TV 4K Gen 3",
-    "released" : "2022"
+    "status": "obsolete",
+    "firstOS": 6,
+    "maxOS": 10,
+    "type": "pad",
+    "name": "iPad (gen 4)",
+    "released": "2012"
   },
   {
-    "status" : "none",
-    "firstOS" : 14,
-    "maxOS" : 18,
-    "type" : "tv",
-    "name" : "Apple TV 4K Gen 2",
-    "released" : "2021"
+    "status": "obsolete",
+    "firstOS": 6,
+    "maxOS": 9,
+    "type": "pad",
+    "name": "iPad mini (gen 1)",
+    "released": "2012"
   },
   {
-    "status" : "none",
-    "firstOS" : 11,
-    "maxOS" : 18,
-    "type" : "tv",
-    "name" : "Apple TV 4K Gen 1",
-    "released" : "2017"
+    "status": "obsolete",
+    "firstOS": 5,
+    "maxOS": 9,
+    "type": "pad",
+    "name": "iPad (gen 3)",
+    "released": "2012"
   },
   {
-    "status" : "none",
-    "firstOS" : 9,
-    "maxOS" : 18,
-    "type" : "tv",
-    "name" : "Apple TV HD",
-    "released" : "2015"
+    "status": "obsolete",
+    "firstOS": 4,
+    "maxOS": 9,
+    "type": "pad",
+    "name": "iPad 2",
+    "released": "2011"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 5,
-    "maxOS" : 7,
-    "type" : "tv",
-    "name" : "Apple TV Gen 3",
-    "released" : "2012"
+    "status": "obsolete",
+    "firstOS": 3,
+    "maxOS": 5,
+    "type": "pad",
+    "name": "iPad (gen 1)",
+    "released": "2010"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 4,
-    "maxOS" : 6,
-    "type" : "tv",
-    "name" : "Apple TV Gen 2",
-    "released" : "2010"
+    "status": "none",
+    "firstOS": 11,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Series 10",
+    "released": "2024"
   },
   {
-    "status" : "obsolete",
-    "firstOS" : 1,
-    "maxOS" : 3,
-    "type" : "tv",
-    "name" : "Apple TV Gen 1",
-    "released" : "2007"
+    "status": "none",
+    "firstOS": 10,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Ultra 2",
+    "released": "2023"
   },
   {
-    "status" : "none",
-    "firstOS" : 11,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Series 10",
-    "released" : "2024"
+    "status": "none",
+    "firstOS": 10,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Series 9",
+    "released": "2023"
   },
   {
-    "status" : "none",
-    "firstOS" : 10,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Ultra 2",
-    "released" : "2023"
+    "status": "none",
+    "firstOS": 9,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Ultra",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 10,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Series 9",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 9,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Series 8",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 9,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Ultra",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 9,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch SE (gen 2)",
+    "released": "2022"
   },
   {
-    "status" : "none",
-    "firstOS" : 9,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Series 8",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 8,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Series 7",
+    "released": "2021"
   },
   {
-    "status" : "none",
-    "firstOS" : 9,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch SE Gen 2",
-    "released" : "2022"
+    "status": "none",
+    "firstOS": 7,
+    "maxOS": 11,
+    "type": "watch",
+    "name": "Apple Watch Series 6",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 8,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Series 7",
-    "released" : "2021"
+    "status": "none",
+    "firstOS": 7,
+    "maxOS": 10,
+    "type": "watch",
+    "name": "Apple Watch SE (gen 1)",
+    "released": "2020"
   },
   {
-    "status" : "none",
-    "firstOS" : 7,
-    "maxOS" : 11,
-    "type" : "watch",
-    "name" : "Apple Watch Series 6",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 6,
+    "maxOS": 10,
+    "type": "watch",
+    "name": "Apple Watch Series 5",
+    "released": "2019"
   },
   {
-    "status" : "none",
-    "firstOS" : 7,
-    "maxOS" : 10,
-    "type" : "watch",
-    "name" : "Apple Watch SE Gen 1",
-    "released" : "2020"
+    "status": "none",
+    "firstOS": 5,
+    "maxOS": 10,
+    "type": "watch",
+    "name": "Apple Watch Series 4",
+    "released": "2018"
   },
   {
-    "status" : "none",
-    "firstOS" : 6,
-    "maxOS" : 10,
-    "type" : "watch",
-    "name" : "Apple Watch Series 5",
-    "released" : "2019"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 5,
-    "maxOS" : 10,
-    "type" : "watch",
-    "name" : "Apple Watch Series 4",
-    "released" : "2018"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 4,
-    "maxOS" : 8,
-    "type" : "watch",
-    "name" : "Apple Watch Series 3",
-    "released" : "2017"
-  },
-  {
-    "status" : "vintage",
-    "firstOS" : 3,
-    "maxOS" : 6,
-    "type" : "watch",
-    "name" : "Apple Watch Series 2",
-    "released" : "2016"
-  },
-  {
-    "status" : "vintage",
-    "firstOS" : 3,
-    "maxOS" : 6,
-    "type" : "watch",
-    "name" : "Apple Watch Series 1",
-    "released" : "2016"
-  },
-  {
-    "status" : "vintage",
-    "firstOS" : 1,
-    "maxOS" : 4,
-    "type" : "watch",
-    "name" : "Apple Watch Series 0",
-    "released" : "2014"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 12,
-    "maxOS" : 15,
-    "type" : "pod",
-    "name" : "iPod touch Gen 7",
-    "released" : "2019"
-  },
-  {
-    "status" : "none",
-    "firstOS" : 8,
-    "maxOS" : 12,
-    "type" : "pod",
-    "name" : "iPod touch Gen 6",
-    "released" : "2015"
-  },
-  {
-    "status" : "obsolete",
-    "firstOS" : 6,
-    "maxOS" : 9,
-    "type" : "pod",
-    "name" : "iPod touch Gen 5",
-    "released" : "2012"
-  },
-  {
-    "status" : "obsolete",
-    "firstOS" : 4,
-    "maxOS" : 6,
-    "type" : "pod",
-    "name" : "iPod touch Gen 4",
-    "released" : "2010"
-  },
-  {
-    "status" : "obsolete",
-    "firstOS" : 3,
-    "maxOS" : 5,
-    "type" : "pod",
-    "name" : "iPod touch Gen 3",
-    "released" : "2009"
-  },
-  {
-    "status" : "obsolete",
-    "firstOS" : 2,
-    "maxOS" : 4,
-    "type" : "pod",
-    "name" : "iPod touch Gen 2",
-    "released" : "2008"
-  },
-  {
-    "status" : "obsolete",
-    "firstOS" : 1,
-    "maxOS" : 3,
-    "type" : "pod",
-    "name" : "iPod touch Gen 1",
-    "released" : "2007"
+    "status": "none",
+    "firstOS": 4,
+    "maxOS": 8,
+    "type": "watch",
+    "name": "Apple Watch Series 3",
+    "released": "2017"
+  },
+  {
+    "status": "vintage",
+    "firstOS": 3,
+    "maxOS": 6,
+    "type": "watch",
+    "name": "Apple Watch Series 2",
+    "released": "2016"
+  },
+  {
+    "status": "vintage",
+    "firstOS": 3,
+    "maxOS": 6,
+    "type": "watch",
+    "name": "Apple Watch Series 1",
+    "released": "2016"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 1,
+    "maxOS": 4,
+    "type": "watch",
+    "name": "Apple Watch Series 0",
+    "released": "2014"
+  },
+  {
+    "status": "none",
+    "firstOS": 16,
+    "maxOS": 18,
+    "type": "tv",
+    "name": "Apple TV 4K (gen 3)",
+    "released": "2022"
+  },
+  {
+    "status": "none",
+    "firstOS": 14,
+    "maxOS": 18,
+    "type": "tv",
+    "name": "Apple TV 4K (gen 2)",
+    "released": "2021"
+  },
+  {
+    "status": "none",
+    "firstOS": 11,
+    "maxOS": 18,
+    "type": "tv",
+    "name": "Apple TV 4K (gen 1)",
+    "released": "2017"
+  },
+  {
+    "status": "none",
+    "firstOS": 9,
+    "maxOS": 18,
+    "type": "tv",
+    "name": "Apple TV HD",
+    "released": "2015"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 5,
+    "maxOS": 7,
+    "type": "tv",
+    "name": "Apple TV (gen 3)",
+    "released": "2012"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 4,
+    "maxOS": 6,
+    "type": "tv",
+    "name": "Apple TV (gen 2)",
+    "released": "2010"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 1,
+    "maxOS": 3,
+    "type": "tv",
+    "name": "Apple TV (gen 1)",
+    "released": "2007"
+  },
+  {
+    "status": "none",
+    "firstOS": 12,
+    "maxOS": 15,
+    "type": "pod",
+    "name": "iPod touch (gen 7)",
+    "released": "2019"
+  },
+  {
+    "status": "vintage",
+    "firstOS": 8,
+    "maxOS": 12,
+    "type": "pod",
+    "name": "iPod touch (gen 6)",
+    "released": "2015"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 6,
+    "maxOS": 9,
+    "type": "pod",
+    "name": "iPod touch (gen 5)",
+    "released": "2012"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 4,
+    "maxOS": 6,
+    "type": "pod",
+    "name": "iPod touch (gen 4)",
+    "released": "2010"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 3,
+    "maxOS": 5,
+    "type": "pod",
+    "name": "iPod touch (gen 3)",
+    "released": "2009"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 2,
+    "maxOS": 4,
+    "type": "pod",
+    "name": "iPod touch (gen 2)",
+    "released": "2008"
+  },
+  {
+    "status": "obsolete",
+    "firstOS": 1,
+    "maxOS": 3,
+    "type": "pod",
+    "name": "iPod touch (gen 1)",
+    "released": "2007"
   }
 ]
