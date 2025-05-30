@@ -16,10 +16,12 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16.5.0' # Explicitly use Node.js version 16.5.0
+        node-version: '18'
 
-    - name: Install dependencies
-      run: npm install
+    - name: Clean and install dependencies
+      run: |
+        rm -rf node_modules
+        npm install
 
     - name: Run iosRefScraper
       run: node tools/iosRefScraper.js
