@@ -106,6 +106,14 @@ function extractDevicesFromHtmlTable($, tbody, sectionId) {
 }
 
 function main() {
+	// load original device list
+	const originalDeviceListPath = 'devutils/devicelist.json';
+	if (!fs.existsSync(originalDeviceListPath)) {
+		console.error('Original device list not found:', originalDeviceListPath);
+		return;
+	}
+	const originalDeviceList = JSON.parse(fs.readFileSync(originalDeviceListPath, 'utf8'));
+
 	const allDevices = [];
 	const cheerio = require('cheerio');
 	const urls = [
@@ -181,6 +189,10 @@ function main() {
 			const order = ['phone', 'pad', 'watch', 'tv', 'pod'];
 			return order.indexOf(a.type) - order.indexOf(b.type);
 		});
+		if (uniqueDevices.length < originalDeviceList.length) {
+			console.warn('New device list has fewer entries than the original. Not overwriting devicelist.json');
+			return;
+		}
 		fs.writeFile('devutils/devicelist.json', JSON.stringify(uniqueDevices, null, 2), (err) => {
 			if (err) {
 				console.error('Error writing to file:', err);
