@@ -1,106 +1,178 @@
 [
   {
-    "api": 1,
-    "semver": "1.0",
-    "name": "(no code name)",
-    "releaseDate": "23 Sep 2008",
-    "versionCode": "BASE",
-    "year": 2008
+    "api": 36,
+    "semver": "16",
+    "name": "Android16",
+    "releaseDate": "23 Jan 2025",
+    "versionCode": "BAKLAVA",
+    "year": 2025
   },
   {
-    "api": 2,
-    "semver": "1.1",
-    "name": "(no code name)",
-    "releaseDate": "09 Feb 2009",
-    "versionCode": "BASE_1_1",
-    "year": 2009
+    "api": 35,
+    "semver": "15",
+    "name": "Android15",
+    "releaseDate": "03 Sep 2024",
+    "versionCode": "VANILLA_ICE_CREAM",
+    "year": 2024
   },
   {
-    "api": 3,
-    "semver": "1.5",
-    "name": "Cupcake",
-    "releaseDate": "27 Apr 2009",
-    "versionCode": "CUPCAKE",
-    "year": 2009
+    "api": 34,
+    "semver": "14",
+    "name": "Android14",
+    "releaseDate": "04 Oct 2023",
+    "versionCode": "UPSIDE_DOWN_CAKE",
+    "year": 2023
   },
   {
-    "api": 4,
-    "semver": "1.6",
-    "name": "Donut",
-    "releaseDate": "15 Sep 2009",
-    "versionCode": "DONUT",
-    "year": 2009
+    "api": 33,
+    "semver": "13",
+    "name": "Android13",
+    "releaseDate": "15 Oct 2022",
+    "versionCode": "TIRAMISU",
+    "year": 2022
   },
   {
-    "api": 5,
-    "semver": "2.0",
-    "name": "Eclair",
-    "releaseDate": "27 Oct 2009",
-    "versionCode": "ECLAIR",
-    "year": 2009
+    "api": 32,
+    "semver": "12",
+    "name": "Android12L",
+    "releaseDate": "07 Oct 2022",
+    "versionCode": "S_V2",
+    "year": 2022
   },
   {
-    "api": 6,
-    "semver": "2.0.1",
-    "name": "Eclair",
-    "releaseDate": "03 Dec 2009",
-    "versionCode": "ECLAIR_0_1",
-    "year": 2009
+    "api": 31,
+    "semver": "12",
+    "name": "Android12",
+    "releaseDate": "04 Oct 2021",
+    "versionCode": "S",
+    "year": 2021
   },
   {
-    "api": 7,
-    "semver": "2.1",
-    "name": "Eclair",
-    "releaseDate": "11 Jan 2010",
-    "versionCode": "ECLAIR_MR1",
-    "year": 2010
+    "api": 30,
+    "semver": "11",
+    "name": "Android11",
+    "releaseDate": "08 Sep 2020",
+    "versionCode": "R",
+    "year": 2020
   },
   {
-    "api": 8,
-    "semver": "2.2.x",
-    "name": "Froyo",
-    "releaseDate": "20 May 2010",
-    "versionCode": "FROYO",
-    "year": 2010
+    "api": 29,
+    "semver": "10",
+    "name": "Android10",
+    "releaseDate": "03 Sep 2019",
+    "versionCode": "Q",
+    "year": 2019
   },
   {
-    "api": 9,
-    "semver": "2.3.0 - 2.3.2",
-    "name": "Gingerbread",
-    "releaseDate": "06 Dec 2010",
-    "versionCode": "GINGERBREAD",
-    "year": 2010
+    "api": 28,
+    "semver": "9",
+    "name": "Pie",
+    "releaseDate": "06 Aug 2018",
+    "versionCode": "P",
+    "year": 2018
   },
   {
-    "api": 10,
-    "semver": "2.3.3 - 2.3.7",
-    "name": "Gingerbread",
-    "releaseDate": "09 Feb 2011",
-    "versionCode": "GINGERBREAD_MR1",
-    "year": 2011
+    "api": 27,
+    "semver": "8.1.0",
+    "name": "Oreo",
+    "releaseDate": "05 Dec 2017",
+    "versionCode": "O_MR1",
+    "year": 2017
   },
   {
-    "api": 11,
-    "semver": "3.0",
-    "name": "Honeycomb",
-    "releaseDate": "22 Feb 2011",
-    "versionCode": "HONEYCOMB",
-    "year": 2011
+    "api": 26,
+    "semver": "8.0.0",
+    "name": "Oreo",
+    "releaseDate": "21 Aug 2017",
+    "versionCode": "O",
+    "year": 2017
   },
   {
-    "api": 12,
-    "semver": "3.1",
-    "name": "Honeycomb",
-    "releaseDate": "10 May 2011",
-    "versionCode": "HONEYCOMB_MR1",
-    "year": 2011
+    "api": 25,
+    "semver": "7.1",
+    "name": "Nougat",
+    "releaseDate": "04 Oct 2016",
+    "versionCode": "N_MR1",
+    "year": 2016
   },
   {
-    "api": 13,
-    "semver": "3.2.x",
-    "name": "Honeycomb",
-    "releaseDate": "15 Jul 2011",
-    "versionCode": "HONEYCOMB_MR2",
+    "api": 24,
+    "semver": "7.0",
+    "name": "Nougat",
+    "releaseDate": "22 Aug 2016",
+    "versionCode": "N",
+    "year": 2016
+  },
+  {
+    "api": 23,
+    "semver": "6.0",
+    "name": "Marshmallow",
+    "releaseDate": "02 Oct 2015",
+    "versionCode": "M",
+    "year": 2015
+  },
+  {
+    "api": 22,
+    "semver": "5.1",
+    "name": "Lollipop",
+    "releaseDate": "02 Mar 2015",
+    "versionCode": "LOLLIPOP_MR1",
+    "year": 2015
+  },
+  {
+    "api": 21,
+    "semver": "5.0",
+    "name": "Lollipop",
+    "releaseDate": "04 Nov 2014",
+    "versionCode": "LOLLIPOP",
+    "year": 2014
+  },
+  {
+    "api": 20,
+    "semver": "4.4",
+    "name": "KitKat Watch",
+    "releaseDate": "25 Jun 2014",
+    "versionCode": "KITKAT_WATCH",
+    "year": 2014
+  },
+  {
+    "api": 19,
+    "semver": "4.4.0 - 4.4.4",
+    "name": "KitKat",
+    "releaseDate": "31 Oct 2013",
+    "versionCode": "KITKAT",
+    "year": 2013
+  },
+  {
+    "api": 18,
+    "semver": "4.3.x",
+    "name": "Jellybean",
+    "releaseDate": "24 Jul 2013",
+    "versionCode": "JELLY_BEAN_MR2",
+    "year": 2013
+  },
+  {
+    "api": 17,
+    "semver": "4.2.x",
+    "name": "Jellybean",
+    "releaseDate": "13 Nov 2012",
+    "versionCode": "JELLY_BEAN_MR1",
+    "year": 2012
+  },
+  {
+    "api": 16,
+    "semver": "4.1.x",
+    "name": "Jellybean",
+    "releaseDate": "09 Jul 2012",
+    "versionCode": "JELLY_BEAN",
+    "year": 2012
+  },
+  {
+    "api": 15,
+    "semver": "4.0.3 - 4.0.4",
+    "name": "Ice Cream Sandwich",
+    "releaseDate": "16 Dec 2011",
+    "versionCode": "ICE_CREAM_SANDWICH_MR1",
     "year": 2011
   },
   {
@@ -112,179 +184,107 @@
     "year": 2011
   },
   {
-    "api": 15,
-    "semver": "4.0.3 - 4.0.4",
-    "name": "Ice Cream Sandwich",
-    "releaseDate": "16 Dec 2011",
-    "versionCode": "ICE_CREAM_SANDWICH_MR1",
+    "api": 13,
+    "semver": "3.2.x",
+    "name": "Honeycomb",
+    "releaseDate": "15 Jul 2011",
+    "versionCode": "HONEYCOMB_MR2",
     "year": 2011
   },
   {
-    "api": 16,
-    "semver": "4.1.x",
-    "name": "Jellybean",
-    "releaseDate": "09 Jul 2012",
-    "versionCode": "JELLY_BEAN",
-    "year": 2012
+    "api": 12,
+    "semver": "3.1",
+    "name": "Honeycomb",
+    "releaseDate": "10 May 2011",
+    "versionCode": "HONEYCOMB_MR1",
+    "year": 2011
   },
   {
-    "api": 17,
-    "semver": "4.2.x",
-    "name": "Jellybean",
-    "releaseDate": "13 Nov 2012",
-    "versionCode": "JELLY_BEAN_MR1",
-    "year": 2012
+    "api": 11,
+    "semver": "3.0",
+    "name": "Honeycomb",
+    "releaseDate": "22 Feb 2011",
+    "versionCode": "HONEYCOMB",
+    "year": 2011
   },
   {
-    "api": 18,
-    "semver": "4.3.x",
-    "name": "Jellybean",
-    "releaseDate": "24 Jul 2013",
-    "versionCode": "JELLY_BEAN_MR2",
-    "year": 2013
+    "api": 10,
+    "semver": "2.3.3 - 2.3.7",
+    "name": "Gingerbread",
+    "releaseDate": "09 Feb 2011",
+    "versionCode": "GINGERBREAD_MR1",
+    "year": 2011
   },
   {
-    "api": 19,
-    "semver": "4.4.0 - 4.4.4",
-    "name": "KitKat",
-    "releaseDate": "31 Oct 2013",
-    "versionCode": "KITKAT",
-    "year": 2013
+    "api": 9,
+    "semver": "2.3.0 - 2.3.2",
+    "name": "Gingerbread",
+    "releaseDate": "06 Dec 2010",
+    "versionCode": "GINGERBREAD",
+    "year": 2010
   },
   {
-    "api": 20,
-    "semver": "4.4",
-    "name": "KitKat Watch",
-    "releaseDate": "25 Jun 2014",
-    "versionCode": "KITKAT_WATCH",
-    "year": 2014
+    "api": 8,
+    "semver": "2.2.x",
+    "name": "Froyo",
+    "releaseDate": "20 May 2010",
+    "versionCode": "FROYO",
+    "year": 2010
   },
   {
-    "api": 21,
-    "semver": "5.0",
-    "name": "Lollipop",
-    "releaseDate": "04 Nov 2014",
-    "versionCode": "LOLLIPOP",
-    "year": 2014
+    "api": 7,
+    "semver": "2.1",
+    "name": "Eclair",
+    "releaseDate": "11 Jan 2010",
+    "versionCode": "ECLAIR_MR1",
+    "year": 2010
   },
   {
-    "api": 22,
-    "semver": "5.1",
-    "name": "Lollipop",
-    "releaseDate": "02 Mar 2015",
-    "versionCode": "LOLLIPOP_MR1",
-    "year": 2015
+    "api": 6,
+    "semver": "2.0.1",
+    "name": "Eclair",
+    "releaseDate": "03 Dec 2009",
+    "versionCode": "ECLAIR_0_1",
+    "year": 2009
   },
   {
-    "api": 23,
-    "semver": "6.0",
-    "name": "Marshmallow",
-    "releaseDate": "02 Oct 2015",
-    "versionCode": "M",
-    "year": 2015
+    "api": 5,
+    "semver": "2.0",
+    "name": "Eclair",
+    "releaseDate": "27 Oct 2009",
+    "versionCode": "ECLAIR",
+    "year": 2009
   },
   {
-    "api": 24,
-    "semver": "7.0",
-    "name": "Nougat",
-    "releaseDate": "22 Aug 2016",
-    "versionCode": "N",
-    "year": 2016
+    "api": 4,
+    "semver": "1.6",
+    "name": "Donut",
+    "releaseDate": "15 Sep 2009",
+    "versionCode": "DONUT",
+    "year": 2009
   },
   {
-    "api": 25,
-    "semver": "7.1",
-    "name": "Nougat",
-    "releaseDate": "04 Oct 2016",
-    "versionCode": "N_MR1",
-    "year": 2016
+    "api": 3,
+    "semver": "1.5",
+    "name": "Cupcake",
+    "releaseDate": "27 Apr 2009",
+    "versionCode": "CUPCAKE",
+    "year": 2009
   },
   {
-    "api": 26,
-    "semver": "8.0.0",
-    "name": "Oreo",
-    "releaseDate": "21 Aug 2017",
-    "versionCode": "O",
-    "year": 2017
+    "api": 2,
+    "semver": "1.1",
+    "name": "(no code name)",
+    "releaseDate": "09 Feb 2009",
+    "versionCode": "BASE_1_1",
+    "year": 2009
   },
   {
-    "api": 27,
-    "semver": "8.1.0",
-    "name": "Oreo",
-    "releaseDate": "05 Dec 2017",
-    "versionCode": "O_MR1",
-    "year": 2017
-  },
-  {
-    "api": 28,
-    "semver": "9",
-    "name": "Pie",
-    "releaseDate": "06 Aug 2018",
-    "versionCode": "P",
-    "year": 2018
-  },
-  {
-    "api": 29,
-    "semver": "10",
-    "name": "Android10",
-    "releaseDate": "03 Sep 2019",
-    "versionCode": "Q",
-    "year": 2019
-  },
-  {
-    "api": 30,
-    "semver": "11",
-    "name": "Android11",
-    "releaseDate": "08 Sep 2020",
-    "versionCode": "R",
-    "year": 2020
-  },
-  {
-    "api": 31,
-    "semver": "12",
-    "name": "Android12",
-    "releaseDate": "04 Oct 2021",
-    "versionCode": "S",
-    "year": 2021
-  },
-  {
-    "api": 32,
-    "semver": "12",
-    "name": "Android12L",
-    "releaseDate": "07 Oct 2022",
-    "versionCode": "S_V2",
-    "year": 2022
-  },
-  {
-    "api": 33,
-    "semver": "13",
-    "name": "Android13",
-    "releaseDate": "15 Oct 2022",
-    "versionCode": "TIRAMISU",
-    "year": 2022
-  },
-  {
-    "api": 34,
-    "semver": "14",
-    "name": "Android14",
-    "releaseDate": "04 Oct 2023",
-    "versionCode": "UPSIDE_DOWN_CAKE",
-    "year": 2023
-  },
-  {
-    "api": 35,
-    "semver": "15",
-    "name": "Android15",
-    "releaseDate": "03 Sep 2024",
-    "versionCode": "VANILLA_ICE_CREAM",
-    "year": 2024
-  },
-  {
-    "api": 36,
-    "semver": "16",
-    "name": "Android16",
-    "releaseDate": "23 Jan 2025",
-    "versionCode": "BAKLAVA",
-    "year": 2025
+    "api": 1,
+    "semver": "1.0",
+    "name": "(no code name)",
+    "releaseDate": "23 Sep 2008",
+    "versionCode": "BASE",
+    "year": 2008
   }
 ]
