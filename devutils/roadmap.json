@@ -15,13 +15,15 @@
         "id": "3",
         "title": "Android Versions",
         "description": "Display Android version within the app for quick reference.",
-        "status": "idea"
+        "status": "added in v1.3.0",
+        "isFinished": true
     },
     {
         "id": "4",
         "title": "Android Studio Releases",
         "description": "Display Android Studio releases within the app, with notifications for new versions based on channels (Release/Beta/Canary/etc.) for users to stay up-to-date with the latest development tools.",
-        "status": "idea"
+        "status": "added in v1.3.0",
+        "isFinished": true
     },
     {
         "id": "5",
