@@ -1,12 +1,5 @@
 [
     {
-        "id": "9991",
-        "title": "Version 2.0.0",
-        "status": "finished",
-        "description" : "Redesigned app with new more up-to-date datasource, new widgets and more.",
-        "isFinished": true
-    },
-    {
         "id": "2",
         "title": "Tapping widget to open launch in-app",
         "status": "planned",
@@ -29,5 +22,12 @@
         "title": "Sticker pack",
         "status": "idea",
         "description" : "Add sticker pack for iMessage"
+    },
+    {
+        "id": "1",
+        "title": "Version 2.0.0",
+        "status": "finished",
+        "description" : "Redesigned app with new more up-to-date datasource, new widgets and more.",
+        "isFinished": true
     }
 ]
