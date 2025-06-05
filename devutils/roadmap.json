@@ -12,6 +12,12 @@
         "description": "Widgets to display device info, latest releases or latest betas"
     },
     {
+        "id": "5",
+        "title": "Tip Jar",
+        "description": "Voluntary tipping to support development. Completely optional with no obligation. No additional features will be locked behind a paywall. All app features will continue to be free and ad-free.",
+        "status": "idea"
+    },
+    {
         "id": "3",
         "title": "Android Versions",
         "description": "Display Android version within the app for quick reference.",
@@ -24,11 +30,5 @@
         "description": "Display Android Studio releases within the app, with notifications for new versions based on channels (Release/Beta/Canary/etc.) for users to stay up-to-date with the latest development tools.",
         "status": "added in v1.3.0",
         "isFinished": true
-    },
-    {
-        "id": "5",
-        "title": "Tip Jar",
-        "description": "Voluntary tipping to support development. Completely optional with no obligation. No additional features will be locked behind a paywall. All app features will continue to be free and ad-free.",
-        "status": "idea"
     }
 ]
