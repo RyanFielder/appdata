@@ -1,13 +1,15 @@
 [
     {
         "id": "1",
-        "title": "Push Notifications",
+        "title": "More Decks",
         "status": "planned",
-        "description" : "Push notifications for new releases/betas"
+        "description" : "Add more user-suggested decks (suggest any you want added)"
     },
     {
-        "id": "2",
-        "title": "Widgets",
-        "status": "Widgets to display device info, latest releases or latest betas"
-    }
+        "id": "1",
+        "title": "Themes",
+        "status": "planned",
+        "description" : "Rework themes within the app to allow greater control"
+    },
+    
 ]
