@@ -1,6 +1,38 @@
 [
   {
     "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "phone",
+    "name": "iPhone 17 Pro",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "phone",
+    "name": "iPhone 17 Pro Max",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "phone",
+    "name": "iPhone 17",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "phone",
+    "name": "iPhone 17 Plus",
+    "released": "2025"
+  },
+  {
+    "status": "none",
     "firstOS": 18,
     "maxOS": 26,
     "type": "phone",
