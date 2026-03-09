@@ -4,6 +4,14 @@
     "firstOS": 26,
     "maxOS": 26,
     "type": "phone",
+    "name": "iPhone 17e",
+    "released": "2026"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "phone",
     "name": "iPhone 17 Pro",
     "released": "2025"
   },
@@ -734,6 +742,30 @@
     "type": "pad",
     "name": "iPad (gen 1)",
     "released": "2010"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "watch",
+    "name": "Apple Watch Ultra 3",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "watch",
+    "name": "Apple Watch Series 11",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "watch",
+    "name": "Apple Watch SE (gen 3)",
+    "released": "2025"
   },
   {
     "status": "none",
