@@ -12,6 +12,14 @@
     "firstOS": 26,
     "maxOS": 26,
     "type": "phone",
+    "name": "iPhone Air",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "phone",
     "name": "iPhone 17 Pro",
     "released": "2025"
   },
@@ -29,14 +37,6 @@
     "maxOS": 26,
     "type": "phone",
     "name": "iPhone 17",
-    "released": "2025"
-  },
-  {
-    "status": "none",
-    "firstOS": 26,
-    "maxOS": 26,
-    "type": "phone",
-    "name": "iPhone 17 Plus",
     "released": "2025"
   },
   {
@@ -417,10 +417,34 @@
   },
   {
     "status": "none",
-    "firstOS": 18,
+    "firstOS": 26,
     "maxOS": 26,
     "type": "pad",
-    "name": "iPad Air 13\" (M3)",
+    "name": "iPad Air 11\"",
+    "released": "2026"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "pad",
+    "name": "iPad Air 11\" 13\" (M4)",
+    "released": "2026"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "pad",
+    "name": "iPad Pro 11\"",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 26,
+    "maxOS": 26,
+    "type": "pad",
+    "name": "iPad Pro 11\" 13\" (M5)",
     "released": "2025"
   },
   {
@@ -428,7 +452,15 @@
     "firstOS": 18,
     "maxOS": 26,
     "type": "pad",
-    "name": "iPad Air 11\" (M3)",
+    "name": "iPad Air 11\"",
+    "released": "2025"
+  },
+  {
+    "status": "none",
+    "firstOS": 18,
+    "maxOS": 26,
+    "type": "pad",
+    "name": "iPad Air 11\" 13\" (M3)",
     "released": "2025"
   },
   {
@@ -452,7 +484,7 @@
     "firstOS": 17,
     "maxOS": 26,
     "type": "pad",
-    "name": "iPad Pro 13\" (M4)",
+    "name": "iPad Pro 11\"",
     "released": "2024"
   },
   {
@@ -460,7 +492,7 @@
     "firstOS": 17,
     "maxOS": 26,
     "type": "pad",
-    "name": "iPad Pro 11\" (M4)",
+    "name": "iPad Pro 11\" 13\" (M4)",
     "released": "2024"
   },
   {
@@ -468,7 +500,7 @@
     "firstOS": 17,
     "maxOS": 26,
     "type": "pad",
-    "name": "iPad Air 13\" (M2)",
+    "name": "iPad Air 11\"",
     "released": "2024"
   },
   {
@@ -476,7 +508,7 @@
     "firstOS": 17,
     "maxOS": 26,
     "type": "pad",
-    "name": "iPad Air 11\" (M2)",
+    "name": "iPad Air 11\" 13\" (M2)",
     "released": "2024"
   },
   {
