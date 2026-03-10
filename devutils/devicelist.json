@@ -272,7 +272,7 @@
     "released": "2018"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 11,
     "maxOS": 16,
     "type": "phone",
@@ -280,7 +280,7 @@
     "released": "2017"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 11,
     "maxOS": 16,
     "type": "phone",
@@ -288,7 +288,7 @@
     "released": "2017"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 11,
     "maxOS": 16,
     "type": "phone",
@@ -312,7 +312,7 @@
     "released": "2016"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 9,
     "maxOS": 15,
     "type": "phone",
@@ -320,7 +320,7 @@
     "released": "2016"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 9,
     "maxOS": 15,
     "type": "phone",
@@ -328,7 +328,7 @@
     "released": "2015"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 9,
     "maxOS": 15,
     "type": "phone",
@@ -336,7 +336,7 @@
     "released": "2015"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 8,
     "maxOS": 12,
     "type": "phone",
@@ -344,7 +344,7 @@
     "released": "2014"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 8,
     "maxOS": 12,
     "type": "phone",
@@ -352,7 +352,7 @@
     "released": "2014"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 7,
     "maxOS": 12,
     "type": "phone",
@@ -360,7 +360,7 @@
     "released": "2013"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 7,
     "maxOS": 10,
     "type": "phone",
@@ -368,7 +368,7 @@
     "released": "2013"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 6,
     "maxOS": 10,
     "type": "phone",
@@ -376,7 +376,7 @@
     "released": "2012"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 5,
     "maxOS": 9,
     "type": "phone",
@@ -384,7 +384,7 @@
     "released": "2011"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 4,
     "maxOS": 7,
     "type": "phone",
@@ -392,7 +392,7 @@
     "released": "2010"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 3,
     "maxOS": 6,
     "type": "phone",
@@ -400,7 +400,7 @@
     "released": "2009"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 2,
     "maxOS": 4,
     "type": "phone",
@@ -408,7 +408,7 @@
     "released": "2008"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 1,
     "maxOS": 3,
     "type": "phone",
@@ -648,7 +648,7 @@
     "released": "2018"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 11,
     "maxOS": 17,
     "type": "pad",
@@ -656,7 +656,7 @@
     "released": "2018"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 10,
     "maxOS": 17,
     "type": "pad",
@@ -664,7 +664,7 @@
     "released": "2017"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 10,
     "maxOS": 17,
     "type": "pad",
@@ -672,7 +672,7 @@
     "released": "2017"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 10,
     "maxOS": 16,
     "type": "pad",
@@ -680,7 +680,7 @@
     "released": "2017"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 9,
     "maxOS": 16,
     "type": "pad",
@@ -688,7 +688,7 @@
     "released": "2016"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 9,
     "maxOS": 16,
     "type": "pad",
@@ -696,7 +696,7 @@
     "released": "2015"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 9,
     "maxOS": 15,
     "type": "pad",
@@ -704,7 +704,7 @@
     "released": "2015"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 8,
     "maxOS": 12,
     "type": "pad",
@@ -712,7 +712,7 @@
     "released": "2014"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 8,
     "maxOS": 15,
     "type": "pad",
@@ -720,7 +720,7 @@
     "released": "2014"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 7,
     "maxOS": 12,
     "type": "pad",
@@ -728,7 +728,7 @@
     "released": "2013"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 7,
     "maxOS": 12,
     "type": "pad",
@@ -736,7 +736,7 @@
     "released": "2013"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 6,
     "maxOS": 10,
     "type": "pad",
@@ -744,7 +744,7 @@
     "released": "2012"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 6,
     "maxOS": 9,
     "type": "pad",
@@ -752,7 +752,7 @@
     "released": "2012"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 5,
     "maxOS": 9,
     "type": "pad",
@@ -760,7 +760,7 @@
     "released": "2012"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 4,
     "maxOS": 9,
     "type": "pad",
@@ -768,7 +768,7 @@
     "released": "2011"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 3,
     "maxOS": 5,
     "type": "pad",
@@ -896,7 +896,7 @@
     "released": "2017"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 3,
     "maxOS": 6,
     "type": "watch",
@@ -904,7 +904,7 @@
     "released": "2016"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 3,
     "maxOS": 6,
     "type": "watch",
@@ -912,7 +912,7 @@
     "released": "2016"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 1,
     "maxOS": 4,
     "type": "watch",
@@ -952,7 +952,7 @@
     "released": "2015"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 5,
     "maxOS": 7,
     "type": "tv",
@@ -960,7 +960,7 @@
     "released": "2012"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 4,
     "maxOS": 6,
     "type": "tv",
@@ -968,7 +968,7 @@
     "released": "2010"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 1,
     "maxOS": 3,
     "type": "tv",
@@ -984,7 +984,7 @@
     "released": "2019"
   },
   {
-    "status": "vintage",
+    "status": "none",
     "firstOS": 8,
     "maxOS": 12,
     "type": "pod",
@@ -992,7 +992,7 @@
     "released": "2015"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 6,
     "maxOS": 9,
     "type": "pod",
@@ -1000,7 +1000,7 @@
     "released": "2012"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 4,
     "maxOS": 6,
     "type": "pod",
@@ -1008,7 +1008,7 @@
     "released": "2010"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 3,
     "maxOS": 5,
     "type": "pod",
@@ -1016,7 +1016,7 @@
     "released": "2009"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 2,
     "maxOS": 4,
     "type": "pod",
@@ -1024,7 +1024,7 @@
     "released": "2008"
   },
   {
-    "status": "obsolete",
+    "status": "none",
     "firstOS": 1,
     "maxOS": 3,
     "type": "pod",
